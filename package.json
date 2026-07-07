@@ -1,0 +1,20 @@
+{
+  "name": "neutrino-synth",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Neutrino — a browser-based wavetable synthesizer with a Vital-style UI and a Japanese-dusk theme.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2"
+  }
+}
